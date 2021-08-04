@@ -1,0 +1,28 @@
+body {
+    
+}
+
+
+
+div{
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    background: red;
+    color: wheat;
+    float: right;
+   
+}
+
+.caja{
+top: 300px;
+bottom: 0px;
+left: 30px;
+right: 0px;
+position: static;
+}
+
+
+
+
+/*/

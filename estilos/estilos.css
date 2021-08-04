@@ -1,0 +1,41 @@
+body{
+    background: sandybrown;
+    background-image: url(../imagenes/corgi.jpg);
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+
+}
+
+div{
+
+    background: bisque;
+    width: 50%;
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px double;
+    height: 160px;
+    display: inline-block;
+
+   
+}
+
+div{
+    background:whitesmoke;
+    background-image: url(../imagenes/corgi.jpg);
+    background-position: 600px 0px;
+}
+
+
+/*margin es el margen exterior
+padding es el margen interior
+
+x horizontal
+y vertical
+
+- 
+
+
+
+
+height, altura
+width, ancho*/
